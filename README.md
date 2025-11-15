@@ -71,6 +71,7 @@ WSL (Ubuntu) – development environment on Windows
 
 YAML & Jinja2 – automation scripts & templating
 
+
 📈 Future Improvements
 
 Containerize the web server with Docker
@@ -84,6 +85,8 @@ Use Terraform to provision AWS infrastructure automatically
 Add monitoring (Prometheus + Grafana) to the EC2 instance
 
 Use secure secrets management for SSH keys
+
+
 
 📬 Contact & License
 
