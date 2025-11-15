@@ -13,7 +13,7 @@ This is a **DevOps mini-project** built to demonstrate how to automate deploymen
 - Apache HTTP server  
 - A styled HTML page deployed via Jinja2 template  
 
-👉 You can view the live demo at: `http://<YOUR_EC2_PUBLIC_IP>/demo/`
+👉 You can view the live demo at: `http://100.28.122.5/demo/`
 
 ---
 
