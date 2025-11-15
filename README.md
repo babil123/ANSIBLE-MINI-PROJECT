@@ -58,6 +58,7 @@ ansible-mini-project/
 
 ![devops-mini](https://github.com/user-attachments/assets/b34f5ad0-3d83-4916-9436-83749d178de4)
 
+---
 
 🔧 Technologies Used
 
@@ -71,6 +72,7 @@ WSL (Ubuntu) – development environment on Windows
 
 YAML & Jinja2 – automation scripts & templating
 
+---
 
 📈 Future Improvements
 
@@ -86,7 +88,7 @@ Add monitoring (Prometheus + Grafana) to the EC2 instance
 
 Use secure secrets management for SSH keys
 
-
+---
 
 📬 Contact & License
 
